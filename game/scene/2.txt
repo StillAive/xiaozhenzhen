@@ -1,0 +1,17 @@
+小小祯:“……新人？”;
+小小祯:（不等你回答，她便移开视线，但冰冷的语气稍缓。）“做好你分内的事。”;
+miniAvatar:none;
+:她没有再说话，直到电梯门开，她才淡淡抛下一句：“报告我会看。”这算不上友善，但至少，她记住了你这个“不推诿”的新人。;
+changeFigure:选择立绘文件;
+changeBg:选择背景文件;
+:（第二天，总裁助理叫你前往总裁办公室）;
+changeBg:生成横幅图片.png;
+changeFigure:stand.webp -next;
+miniAvatar:miniavatar.webp;
+小小祯:“新人，你叫什么名字”;
+getUserInput:name -title=我叫 -buttonText=ok;
+miniAvatar:none;
+你:“我叫{name}，很荣幸能进入祯总公司进行实习。”;
+miniAvatar:miniavatar.webp;
+小小祯:（坐在宽大的办公桌后，指尖轻叩桌面）“东区市场的数据分析，明天上班前我要看到报告。”;
+choose:“是，祯总。”:2.1.txt|“林总，时间是否可能……”:2.2.txt|（微笑）“如果我能完成，有什么奖励吗？”:3.3.txt;

@@ -1,0 +1,21 @@
+miniAvatar:none;
+你:"是，祯总。";
+miniAvatar:miniavatar.webp;
+小小祯:（冷淡地点头）"很好，出去吧。";
+changeFigure:none;
+changeBg:none;
+miniAvatar:none;
+:（你严格按照要求完成了报告，但过于保守的回答让小小祯对你失去了兴趣）;
+:（之后的工作中，你们始终保持着纯粹的工作关系）;
+changeBg:生成横幅图片.png;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:（翻阅文件，头也不抬）"把这份文件送到财务部。";
+miniAvatar:none;
+你:"是，祯总。";
+changeFigure:none;
+changeBg:none;
+getUserInput:name -title=游戏结束;
+intro:你始终保持着安全的距离|小小祯将你视为普通的员工|再也没有进一步发展的可能|{name}，攻略失败 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;
+[file content end]

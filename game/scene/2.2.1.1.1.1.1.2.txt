@@ -1,0 +1,15 @@
+miniAvatar:none;
+你:"我会保护好祯总的。";
+miniAvatar:miniavatar.webp;
+小小祯:（感动地看你一眼）"谢谢……";
+:（轻声）"有你在，我确实安心很多。";
+miniAvatar:none;
+:（晚会进行中，小小祯从容应对各方宾客）;
+:（你始终在她身边，适时递上资料或解围）;
+miniAvatar:miniavatar.webp;
+小小祯:（间隙时小声对你说）"表现不错。";
+miniAvatar:none;
+你:"这是助理的职责。";
+miniAvatar:miniavatar.webp;
+小小祯:（微笑）"只是职责吗？";
+choose:"更是我的心意。":2.2.1.1.1.1.1.2.1.txt|"祯总希望是什么？":2.2.1.1.1.1.1.2.2.txt;

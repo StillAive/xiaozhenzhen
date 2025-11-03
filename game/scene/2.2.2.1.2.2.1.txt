@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"配不配不是由你决定的。";
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:（愤怒）"你！";
+:（突然将红茶泼向你）"离祯姐姐远点！";
+changeFigure:stand.webp -right;
+miniAvatar:miniavatar.webp;
+小小祯:（震惊）"雅雅！你太过分了！";
+:（急忙拿纸巾帮你擦拭）"没事吧？";
+miniAvatar:none;
+你:"我没事……";
+miniAvatar:miniavatar.webp;
+小小祯:（对雅雅严厉地）"出去！现在！";
+:（转向你，心疼）"对不起，让你受委屈了。";
+miniAvatar:none;
+:（这一刻，你看到了她眼中的心疼和歉意）;
+choose:"为了祯总，值得。":2.2.2.1.2.2.1.1.txt|"雅雅需要心理帮助。":2.2.2.1.2.2.1.2.txt;

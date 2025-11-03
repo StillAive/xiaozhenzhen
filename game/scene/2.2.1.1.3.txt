@@ -1,0 +1,15 @@
+miniAvatar:none;
+你:"抱歉，我觉得这样不合适。"（起身离开）;
+miniAvatar:miniavatar.webp;
+小小祯:（愣住，随即脸色苍白）"你……";
+:（声音颤抖）"你觉得我在勾引你？";
+miniAvatar:none;
+你:"不是，我只是……";
+miniAvatar:miniavatar.webp;
+小小祯:（站起来，眼中含泪）"滚。";
+:（压低声音）"永远不要出现在我面前。";
+changeFigure:none;
+changeBg:none;
+getUserInput:name -title=游戏结束;
+intro:你的拒绝深深伤害了她的自尊|小小祯从此对你关闭了心门|连普通同事都做不成|{name}，关系破裂 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

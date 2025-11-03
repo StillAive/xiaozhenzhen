@@ -1,0 +1,5 @@
+changeFigure: -next;
+changeBg:none;
+getUserInput:name -title=游戏结束;
+intro:太过正式的回答让你与小小祯“默契地”保持着工作关系|此次攻略任务失败|{name}你输了 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

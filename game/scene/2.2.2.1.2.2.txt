@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"为了祯总，值得。";
+miniAvatar:miniavatar.webp;
+小小祯:（感动）"你……";
+:（这时雅雅端着茶点进来）;
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:"祯姐姐～我亲手泡了你最爱的红茶！";
+:（看到你们，脸色一变）"你怎么还在这里？";
+changeFigure:stand.webp -right;
+miniAvatar:miniavatar.webp;
+小小祯:"雅雅，{name}是我的客人。";
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:（委屈）"可是祯姐姐，我才是最爱你的啊！";
+:（指着你）"他根本配不上你！";
+miniAvatar:none;
+choose:"配不配不是由你决定的。":2.2.2.1.2.2.1.txt|"雅雅小姐，请控制情绪。":2.2.2.1.2.2.2.txt;

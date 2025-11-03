@@ -1,0 +1,14 @@
+miniAvatar:none;
+你:"祯总就这么不近人情吗？";
+miniAvatar:miniavatar.webp;
+小小祯:（猛地转身，眼神冰冷）"你说什么？";
+（语气危险）"再说一遍。";
+miniAvatar:none;
+你:"我只是觉得……三分钟的迟到不该被这样对待。";
+miniAvatar:miniavatar.webp;
+小小祯:（冷笑）"很好。那你永远不用被我'对待'了。";
+（拿出手机）"人事部吗？实习生{name}，立即解雇。";
+changeFigure:none;
+changeBg:none;
+intro:挑战权威的代价是惨重的|你被当场解雇|连解释的机会都没有|{name}，出局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

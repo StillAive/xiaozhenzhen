@@ -1,0 +1,28 @@
+bgm:s_Title.mp3 -volume=80 -enter=3000;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:你是一名初入星城集团的实习生|普通家庭出身，凭借自身的努力与才华闯入星城集团。总裁小小祯冷静、果决、言辞犀利，气场强大到能让整个会议室鸦雀无声。是员工眼中不近人情的“完美主义者”，是竞争对手眼里难以逾越的高墙。|你需要解开小小祯内心的孤独枷锁，让她接纳你，不仅作为她的伴侣，更是她灵魂的依靠。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setTransition: -target=fig-left -exit=shockwaveOut;
+:你，作为一名新人，怀揣着对未来的憧憬与一丝不安，走进了这里。你知道，这里是梦想的起点，也可能是……一段传奇故事开始的地方。;
+:就在这时，整个大厅的氛围仿佛骤然降温。人群像摩西分海般自动让开一条通道。她出现了。;
+changeBg:bg.webp -next;
+setTransition: -target=bg-main -enter=shockwaveIn -next;
+unlockCg:bg.webp -name=良い夜; // 解锁CG并赋予名称
+changeFigure:stand.webp -left -enter=enter-from-left -next;
+miniAvatar:miniavatar.webp;
+小小祯:（对身旁的助理，声音清冷）“董事会资料准备好了吗？” -v1.wav;
+miniAvatar:none;
+助理:“是的，祯总，已放在您桌上。”;
+setAnimation:exit -target=fig-left;
+:(她与你擦肩而过，留下一缕清冽的香水味。电梯门缓缓关上，将那个遥不可及的身影隔绝在内。);
+那就是小小祯。 -v2.wav;
+:星城集团的女王，一座行走的冰山。你们之间，隔着天与地的距离。然而，命运的齿轮，往往始于最微不足道的交错。;
+:你鬼使神差的跟进了电梯里;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:“非总裁办人员，为何有此层权限？” -e025_Thank_you_ for_your_interest_in_the_WebGAL_project!.mp3;
+setAnimation:move-front-and-back -target=fig-left -continue;
+miniAvatar:none;
+:“张经理让我来送项目报告的修正版，这是U盘。” -v4.wav;
+miniAvatar:miniavatar.webp;
+小小祯:“张经理的失误，会反映在部门季度考核里。”;
+choose:“文件已送到，我的任务完成了。”:1.txt|“我会尽力弥补这次失误带来的影响。”:2.txt|"但因此见到了您。":3.txt

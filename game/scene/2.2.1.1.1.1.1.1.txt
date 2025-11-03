@@ -1,0 +1,14 @@
+miniAvatar:none;
+你:"祯总今晚很美。";
+miniAvatar:miniavatar.webp;
+小小祯:（脸微红）"这种场合说这个做什么……";
+:（但嘴角不自觉上扬）"专心工作。";
+miniAvatar:none;
+:（音乐响起，舞会开始）;
+changeFigure:图片抠图2.png -left;
+雅雅:"祯姐姐！第一支舞和我跳嘛！";
+changeFigure:stand.webp -right;
+miniAvatar:miniavatar.webp;
+小小祯:（看向你，眼神期待）;
+miniAvatar:none;
+choose:"抱歉，第一支舞祯总已经答应我了。":2.2.1.1.1.1.1.1.1.txt|（伸出手）"能请您跳支舞吗？":2.2.1.1.1.1.1.1.2.txt;

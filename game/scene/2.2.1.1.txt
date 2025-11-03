@@ -1,0 +1,15 @@
+miniAvatar:none;
+你:"等等！我保证不会有下次！";
+miniAvatar:miniavatar.webp;
+小小祯:（停下脚步，回头看你）"最后一次机会。";
+:（指向甜品店）"进去吧。";
+miniAvatar:none;
+:（店里，小小祯看着菜单，眼神发亮）;
+miniAvatar:miniavatar.webp;
+小小祯:"我要这个……还有这个……";
+（突然意识到什么，咳嗽一声）"高热量，不健康。";
+miniAvatar:none;
+你:"偶尔放纵一下也没关系。";
+miniAvatar:miniavatar.webp;
+小小祯:（警惕地看着你）"你……不会说出去吧？";
+choose:"这是我们的小秘密。":2.2.1.1.1.txt|"那要看祯总的表现了。":2.2.1.1.2.txt|"抱歉，我觉得这样不合适。"（起身离开）:2.2.1.1.3.txt;

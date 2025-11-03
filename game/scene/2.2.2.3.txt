@@ -1,0 +1,15 @@
+miniAvatar:none;
+你:"祯总何必这么嘴硬？";
+miniAvatar:miniavatar.webp;
+小小祯:（眼神锐利）"你说我嘴硬？";
+:（向前一步）"看来你完全不懂什么叫分寸。";
+miniAvatar:none;
+你:"我只是……";
+miniAvatar:miniavatar.webp;
+小小祯:（打断）"够了。从明天开始，你调去分公司。";
+:（转身离开）"不要再出现在我面前。";
+changeFigure:none;
+changeBg:none;
+getUserInput:name -title=游戏结束;
+intro:过度自信让你越界了|小小祯无法容忍被看穿脆弱|你被发配边疆|{name}，调离总部 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

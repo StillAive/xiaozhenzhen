@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"这是我应该做的。";
+miniAvatar:miniavatar.webp;
+小小祯:（点头）"很好，保持这种专业态度。";
+changeBg:none;
+changeFigure:none;
+:（你始终坚持专业边界）;
+:（小小祯虽然欣赏你的能力，但也保持了适当距离）;
+changeBg:生成横幅图片.png;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:"{name}，欧洲分公司需要一位负责人。";
+:（公事公办地）"我认为你是最合适的人选。";
+miniAvatar:none;
+:（你接受了外派，开始了新的职业生涯）;
+getUserInput:name -title=结局;
+intro:专业赢得尊重|距离保持美感|在更广阔的舞台发展|{name}，海外精英 -fontSize=medium -backgroundColor=rgba(65,105,225,0.8) -fontColor=rgba(255,255,255,1) -animation=fadeIn -delayTime=1500;
+end;

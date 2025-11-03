@@ -1,0 +1,7 @@
+Game_name:小小祯的心事;
+Game_key:0f87dstRg;
+Title_img:图片横竖屏调整.png;
+Title_bgm:s_Title.mp3;
+Game_Logo:图片横竖屏调整.png;
+Enable_Appreciation:true;
+Default_Language:zh_CN;

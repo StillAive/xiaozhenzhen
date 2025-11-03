@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"我只是尽助理的职责。";
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:（嗤笑）"职责？";
+:（眼神危险）"记住你的身份，助理。";
+changeFigure:none -left;
+:（你的态度让雅雅暂时收敛）;
+changeBg:生成横幅图片.png;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:"听说雅雅找过你？";
+:（关切地）"她没为难你吧？";
+miniAvatar:none;
+你:"没事，我能处理。";
+miniAvatar:miniavatar.webp;
+小小祯:（赞赏地点头）"很好。";
+:（轻声）"谢谢你为我着想。";
+choose:"这是我应该做的。":2.2.2.1.2.1.txt|"为了祯总，值得。":2.2.2.1.2.2.txt;

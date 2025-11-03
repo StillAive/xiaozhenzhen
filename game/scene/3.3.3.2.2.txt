@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"以什么身份？";
+miniAvatar:miniavatar.webp;
+小小祯:（脸一红）"你希望以什么身份？";
+:（这时雅雅兴奋地跑进来）;
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:"祯姐姐！我为你准备了惊喜！";
+:（看到你们，愣住）"你们在说什么？";
+changeFigure:stand.webp -right;
+miniAvatar:miniavatar.webp;
+小小祯:（慌乱）"没什么！";
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:（警惕地看着你）"你是不是在打祯姐姐的主意？";
+:（挡在小小祯面前）"离她远点！";
+miniAvatar:none;
+choose:"这与你无关。":3.3.3.2.2.1.txt|"我只是祯总的助理。":3.3.3.2.2.2.txt;

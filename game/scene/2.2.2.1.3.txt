@@ -1,0 +1,17 @@
+miniAvatar:none;
+你:"你喜欢祯总？";
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:（冷笑）"看来你还不明白状况。";
+:（拿出手机）"等着瞧吧。";
+changeFigure:none -left;
+:（几天后，你被叫到总裁办公室）;
+changeBg:生成横幅图片.png;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:（面色冰冷）"听说你在散布我和雅雅的谣言？";
+:（不等你解释）"你被开除了。";
+changeFigure:none;
+changeBg:none;
+getUserInput:name -title=游戏结束;
+intro:雅雅的报复来得很快|你被诬陷散布谣言|小小祯选择了相信她|{name}，被陷害出局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"是雅雅在搞鬼。";
+miniAvatar:miniavatar.webp;
+小小祯:（皱眉）"你有证据吗？";
+:（这时雅雅突然出现）;
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:"祯姐姐！他在诬陷我！";
+:（眼泪汪汪）"我怎么会做那种事呢？";
+changeFigure:stand.webp -right;
+miniAvatar:miniavatar.webp;
+小小祯:（为难）"这……";
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:"祯姐姐你要相信我！我一直最听你的话了！";
+:（瞪你一眼）"不像某些人，总是惹你生气！";
+miniAvatar:none;
+choose:"我有监控证据。":2.2.2.1.1.2.1.txt|"雅雅，适可而止吧。":2.2.2.1.1.2.2.txt;

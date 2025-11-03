@@ -1,0 +1,18 @@
+miniAvatar:miniavatar.webp;
+小小祯:（微微一愣，随即露出淡淡的微笑）"……算你识相。";
+:（气氛变得轻松，她放下戒备）"你倒是比看起来可靠。";
+miniAvatar:none;
+你:"毕竟要配得上当祯总的'秘密伙伴'啊。";
+miniAvatar:miniavatar.webp;
+小小祯:（轻笑）"油嘴滑舌……不过，你叫什么名字？";
+getUserInput:name -title=我叫;
+小小祯:"{name}……这个名字，我会记住的。";
+（她优雅地擦擦嘴角，站起身）"明天见。希望你的'秘密守护'能力一如既往。";
+changeBg:none;
+changeFigure:none;
+:（你们的"甜品约定"持续着，关系日渐亲密……）;
+changeBg:生成横幅图片.png;
+changeFigure:stand.webp;
+:（一周后，总裁办公室）;
+小小祯:"{name}，下周的周年庆，你来做我的舞伴。";
+choose:"这是我的荣幸。":2.2.1.3.1.txt|"终于要向大家公开我们的关系了？":2.2.1.3.2.txt;

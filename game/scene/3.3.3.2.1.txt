@@ -1,0 +1,15 @@
+miniAvatar:none;
+你:"是！";
+miniAvatar:miniavatar.webp;
+小小祯:（被你的热情逗笑）"这么有信心？";
+changeBg:none;
+changeFigure:none;
+:（你在周年庆上表现出色）;
+:（小小祯的父亲对你刮目相看）;
+changeBg:图片抠图999.png;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:"父亲想见见你。";
+:（紧张地）"你...准备好了吗？";
+miniAvatar:none;
+choose:"随时准备着！":3.3.3.2.1.1.txt|"我需要准备一下...":3.3.3.2.1.2.txt;

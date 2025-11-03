@@ -1,0 +1,12 @@
+miniAvatar:none;
+你:"这有什么大不了的？";
+miniAvatar:miniavatar.webp;
+小小祯:（眼神冰冷）"看来你完全不懂什么叫尊重。";
+（按下内线）"保安，请这位先生离开。你被开除了。";
+miniAvatar:none;
+:（你试图解释，但她已经背过身去）;
+changeFigure:none;
+changeBg:none;
+getUserInput:name -title=游戏结束;
+intro:你轻视了她的底线|总裁的威严不容挑衅|泄露隐私的代价是失业|{name}，被解雇 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

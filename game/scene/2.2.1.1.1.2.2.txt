@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"不能当祯总的舞伴吗？";
+miniAvatar:miniavatar.webp;
+小小祯:（摇头）"现在的情况……不合适。";
+:（这时雅雅得意地走进来）;
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:"祯姐姐！我拿到周年庆的舞伴资格了！";
+:（挑衅地看着你）"某些人还是乖乖去做后勤吧～";
+changeFigure:stand.webp -right;
+miniAvatar:miniavatar.webp;
+小小祯:（无奈）"雅雅，别这样。";
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:"祯姐姐最疼我了，对吧？";
+:（抱住小小祯的手臂）"我们一起去选礼服吧！";
+miniAvatar:none;
+choose:"祯总，请再考虑一下。":2.2.1.1.1.2.2.1.txt|（默默离开）:2.2.1.1.1.2.2.2.txt;

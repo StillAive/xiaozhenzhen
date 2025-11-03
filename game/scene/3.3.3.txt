@@ -1,0 +1,6 @@
+changeFigure:stand.webp -right;
+miniAvatar:miniavatar.webp;
+小小祯:（微微抬眼）“……总算有个会动脑子的。这里，还有这里。”;
+（她用笔轻点文件）“下班前我要看到新版本。”;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:（嫉妒地看着你）“哼！不过是运气好！”;

@@ -1,0 +1,17 @@
+miniAvatar:none;
+你:"这与你无关。";
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:（冷笑）"很好，你有种。";
+:（靠近一步）"那我们走着瞧。";
+changeFigure:none -left;
+:（几天后，你的工作开始出现各种"意外"）;
+changeBg:生成横幅图片.png;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:"听说你最近失误很多？";
+:（怀疑地看着你）"这不像你的水平。";
+miniAvatar:none;
+你:"有人在针对我……";
+miniAvatar:miniavatar.webp;
+小小祯:（皱眉）"证据呢？";
+choose:"我会找到证据的。":2.2.2.1.1.1.txt|"是雅雅在搞鬼。":2.2.2.1.1.2.txt;
