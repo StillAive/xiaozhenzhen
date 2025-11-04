@@ -2,7 +2,7 @@ miniAvatar:none;
 你:"看来我这份'间谍'工作，还包括替总裁解围。";
 miniAvatar:miniavatar.webp;
 小小祯:（轻哼一声）"油嘴滑舌。";
-:（但语气缓和）"不过……刚才确实帮了大忙。";
+（但语气缓和）"不过……刚才确实帮了大忙。";
 miniAvatar:none;
 你:"那是不是该有点奖励？";
 miniAvatar:miniavatar.webp;

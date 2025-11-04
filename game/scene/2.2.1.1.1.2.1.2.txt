@@ -1,0 +1,16 @@
+miniAvatar:none;
+你:"我还在弥补过错，不太合适...";
+miniAvatar:miniavatar.webp;
+小小祯:（眼神一暗）"你还是不懂。";
+（转身）"我要的不是你的愧疚，而是担当。";
+changeFigure: -next;
+miniAvatar:none;
+:（你的过度谦卑让她觉得你缺乏自信）;
+:（最终她选择了其他舞伴）;
+:（在舞会上与其他高管共舞）;
+:（目光偶尔掠过你，带着淡淡的遗憾）;
+miniAvatar:none;
+:（你们的关系永远停留在了上下级层面）;
+getUserInput:name -title=结局;
+intro:过度谦卑错失良机|缺乏担当令人失望|关系停滞不前|{name}，畏缩不前 -fontSize=medium -backgroundColor=rgba(128,128,128,0.8) -fontColor=rgba(255,255,255,1) -animation=fadeIn -delayTime=1500;
+end;

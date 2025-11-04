@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"祯总不怕影响吗？";
+miniAvatar:miniavatar.webp;
+小小祯:（眼神黯淡）"你...在担心影响？";
+（苦笑）"我以为你会和我一样不在乎那些闲言碎语。";
+miniAvatar:none;
+:（你的犹豫让小小祯感到失望）;
+:（她开始重新考虑你们的关系）;
+miniAvatar:miniavatar.webp;
+小小祯:（平静地）"你说得对，确实需要考虑影响。";
+（职业性微笑）"那周年庆我就独自出席了。";
+changeFigure:图片抠图2.png -left;
+miniAvatar:23000dd32ff2404b9aad26472f8a2e0dpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png;
+雅雅:（雅雅突然出现）"祯姐姐！我陪你参加！";
+（得意地瞥了你一眼）;
+miniAvatar:none;
+:（你意识到自己的谨慎让雅雅有了可乘之机）;
+choose:"等等，我改变主意了！":2.2.1.1.1.1.2.2.1.txt|"这样确实更稳妥...":2.2.1.1.1.1.2.2.2.txt;

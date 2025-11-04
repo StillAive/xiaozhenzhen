@@ -2,7 +2,7 @@ miniAvatar:none;
 你:"等等！我保证不会有下次！";
 miniAvatar:miniavatar.webp;
 小小祯:（停下脚步，回头看你）"最后一次机会。";
-:（指向甜品店）"进去吧。";
+（指向甜品店）"进去吧。";
 miniAvatar:none;
 :（店里，小小祯看着菜单，眼神发亮）;
 miniAvatar:miniavatar.webp;

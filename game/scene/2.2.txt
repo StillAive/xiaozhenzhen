@@ -23,7 +23,7 @@ changeFigure:stand.webp;
 changeFigure:2e224de2519e4e489b77381adb0288dfpreview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_5.png -left;
 :（这个人你略有耳闻，她是小小祯的狂热追求者，其夸张程度你难以想象！）;
 你:"抱歉，雅雅小姐，祯总接下来有个紧急电话需要处理。"（自然地侧身，为小小祯创造出一个撤离空间）;
-changeFigure:none -left;
+changeFigure: -left;
 :（小小祯微微一怔，随即顺势和你一起走向露台）;
 changeBg:图片抠图456.png;
 miniAvatar:miniavatar.webp;

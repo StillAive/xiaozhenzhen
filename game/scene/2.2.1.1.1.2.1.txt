@@ -1,0 +1,16 @@
+miniAvatar:none;
+你:"是，我会做好的。";
+miniAvatar:miniavatar.webp;
+小小祯:（神色稍缓）"希望你能珍惜这次机会。";
+changeBg: -next;
+changeFigure: -next;
+miniAvatar:none;
+:（你认真负责后勤工作，事事亲力亲为）;
+:（小小祯看在眼里，态度逐渐软化）;
+changeBg:图片抠图99.png;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:（庆典中途找到你）"{name}，舞会要开始了...";
+（轻声）"你愿意当我的舞伴吗？";
+miniAvatar:none;
+choose:"这是我的荣幸！":2.2.1.1.1.2.1.1.txt|"我还在弥补过错，不太合适...":2.2.1.1.1.2.1.2.txt;

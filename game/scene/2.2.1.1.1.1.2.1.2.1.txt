@@ -1,0 +1,18 @@
+miniAvatar:none;
+你:"我会注意的。";
+miniAvatar:miniavatar.webp;
+小小祯:（欣慰）"你总是这么稳重。";
+changeBg: -next;
+changeFigure: -next;
+miniAvatar:none;
+:（你处处提防，但雅雅的手段更加隐蔽）;
+:（她在你的电脑中植入监控软件，窃取工作文件）;
+changeBg:生成横幅图片.png -next;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:（震惊）"{name}！你的方案怎么会出现在竞争对手那里？";
+（桌上放着与你方案雷同的竞品资料）;
+miniAvatar:none;
+你:"这不可能！我从来没有泄露过...";
+:（你立即检查电脑，发现了监控软件）;
+choose:"这是雅雅做的，我有证据！":2.2.1.1.1.1.2.1.2.1.1.txt|"我需要时间调查清楚":2.2.1.1.1.1.2.1.2.1.2.txt;

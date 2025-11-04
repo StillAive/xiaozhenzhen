@@ -18,4 +18,3 @@ changeBg:none;
 getUserInput:name -title=游戏结束;
 intro:你始终保持着安全的距离|小小祯将你视为普通的员工|再也没有进一步发展的可能|{name}，攻略失败 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 end;
-[file content end]

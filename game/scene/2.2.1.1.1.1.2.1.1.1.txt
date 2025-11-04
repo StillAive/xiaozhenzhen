@@ -1,0 +1,16 @@
+miniAvatar:none;
+你:"我会注意安全的。";
+miniAvatar:miniavatar.webp;
+小小祯:（点头）"好，我相信你能处理好。";
+changeBg: -next;
+changeFigure: -next;
+miniAvatar:none;
+:（第二天，雅雅开始在职场上针对你）;
+:（她利用人脉截胡你的客户，散布对你不利的谣言）;
+changeBg:生成横幅图片.png;
+changeFigure:stand.webp;
+miniAvatar:miniavatar.webp;
+小小祯:（严肃）"{name}，我听说你丢了星耀集团的单子？";
+（担忧）"这已经是本周第三个了...";
+miniAvatar:none;
+choose:"我会用实力证明自己！":2.2.1.1.1.1.2.1.1.1.1.txt|"祯总，我需要你的帮助。":2.2.1.1.1.1.2.1.1.1.2.txt;
